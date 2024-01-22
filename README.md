@@ -26,7 +26,7 @@ Prints a summary of the employee's information, including name, salary, work hou
 ## Usage
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/snilsumelis/Employee
     ```
 
 2. Navigate to the project directory:
